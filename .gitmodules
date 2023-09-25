@@ -1,10 +1,10 @@
 [submodule "airlearning-ue4"]
 	path = airlearning-ue4
-	url = https://github.com/harvard-edge/airlearning-ue4.git
+	url = https://github.com/Tamminhdiep97/airlearning-ue4.git
 	branch = master
 [submodule "airlearning-rl"]
 	path = airlearning-rl
-	url = https://github.com/harvard-edge/airlearning-rl.git
+	url = https://github.com/Tamminhdiep97/airlearning-rl.git
 	branch = master
 [submodule "applications/source-seeking"]
 	path = applications/source-seeking
